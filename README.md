@@ -1,0 +1,1 @@
+To compile on Windows, change all `rand_r`s to `rand_s` in the code.
